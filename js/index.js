@@ -1,1 +1,1 @@
-const numeroKm = parseInt prompt ('Insrrisci numero km di percorrenza viaggio');
+const numeroKm = parseInt (prompt ('Inserisci numero km di percorrenza viaggio'))
